@@ -11,8 +11,8 @@ permissions:
   id-token: write   # REQUIRED FOR OIDC
 
 env:
-  CLOUDSMITH_WORKSPACE: globex-innovations
-  SERVICE: gha-epm-actions   # ← your real service account
+  CLOUDSMITH_WORKSPACE: cristian-test
+  SERVICE: TestServiceAccountCristian   # ← your real service account
 
 jobs:
   apply:
