@@ -12,7 +12,7 @@ permissions:
 
 env:
   CLOUDSMITH_WORKSPACE: cristian-test
-  SERVICE: TestServiceAccountCristian   # ← your real service account
+  SERVICE: gha-epm-actions-txxb   # ← your real service account
 
 jobs:
   apply:
